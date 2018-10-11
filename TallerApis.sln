@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApis.Apis", "TallerApis.Apis\TallerApis.Apis.csproj", "{65CFBDEB-200B-4B8B-AB5C-EB7D4CF1EFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApis.Xamarin.Android", "TallerApis.Xamarin\TallerApis.Xamarin.Android\TallerApis.Xamarin.Android.csproj", "{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApis.Xamarin", "TallerApis.Xamarin\TallerApis.Xamarin\TallerApis.Xamarin.csproj", "{92A80610-9AC1-48C4-80B5-CA316A8FA82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CFBDEB-200B-4B8B-AB5C-EB7D4CF1EFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CFBDEB-200B-4B8B-AB5C-EB7D4CF1EFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CFBDEB-200B-4B8B-AB5C-EB7D4CF1EFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CFBDEB-200B-4B8B-AB5C-EB7D4CF1EFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E5182E-DE62-48CF-AC9E-1D1AB7C20855}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{92A80610-9AC1-48C4-80B5-CA316A8FA82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A80610-9AC1-48C4-80B5-CA316A8FA82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A80610-9AC1-48C4-80B5-CA316A8FA82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A80610-9AC1-48C4-80B5-CA316A8FA82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BA3826-E1FA-43C3-B92B-E5D539272858}
+	EndGlobalSection
+EndGlobal
